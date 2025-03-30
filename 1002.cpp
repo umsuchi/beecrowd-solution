@@ -8,7 +8,7 @@ int main()
     cin >> r;
 
     a = pi*r*r;
-    cout << setprecision(4) << a << endl;
+    cout <<"A=" << setprecision(4) << a << endl;
 
     return 0;
 }
