@@ -6,7 +6,7 @@ int main() {
    int A,B;
 
    cin >> A >> B ;
-   cout << A + B << endl;
+   cout << "X = " << A + B << endl;
 
    return 0;
 }
